@@ -1,7 +1,8 @@
-# About Me
+# Welcome to my github
 - 👋 Hi, I'm Iretomiwa
 - 👀 I find great joy in documenting my journey as a data analyst and reflecting on my learning experiences ...
 - 🌱 Currently delving into the depths of advanced statistical analysis...
 - 👯 Open to collaborations on intriguing data analysis projects, whether voluntary or otherwise. ...
 - ⚡ Fun fact:'m an avid fan of football analysis!
+- 💞️ Connect with me on [Linkdeln](www.linkedin.com/in/iretomiwa-adesoye-539300229)
 
